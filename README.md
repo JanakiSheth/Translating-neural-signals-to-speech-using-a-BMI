@@ -11,4 +11,6 @@ Update 11-08-2019: Our paper using the above network for retrospective analysis 
 
 Current efforts are being directed towards replicating similar analysis on continuous prose, the corresponding python code to which is in the rnn_continuousdata file. The approach to this code is less to do with applying multiple deep networks but more on the lines of interpreting what they learn in terms of underlying speech. So, consonants are presently split based on voicing, vowels based on the vowel triangle and semivowels based on whether they are glides or liquids. 
 
+Update 21-08-2021: Corresponding paper is published in Biomedical Physics & Engineering Express, https://iopscience.iop.org/article/10.1088/2057-1976/abf6ab/meta
+
 
